@@ -1,4 +1,6 @@
 # Clustering
+
+(https://github.com/MedhaviMonish/K-Means/blob/master/Images/clustering.jpg?raw=true)
 Clustering is considered an unsupervised learning method, where the machine is provided data without the target labels and it 
 tries to learn the differences and similarity among them.
 
@@ -37,7 +39,7 @@ We will be using the hand written digits dataset provided by sklearn it has 1797
 each one is image of size 8x8. But Since it has 64 attribute/dimensions (i.e. 8 * 8), we will be reducing it's dimension to 2 so that
 it will be easier to display them on 2D graph. For this we need to introduce Principal component analysis (PCA)
 
-## Principal component analysis [WIkiPedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
+## Principal component analysis [PCA-Wiki](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 Principal component analysis is an algoithm that reduces the dimension of data. For example if you have a data that has 784
 attributes(i.e. dimension) then you can represent it in lower dimension like using only 10 attributes or even less. This method is not
