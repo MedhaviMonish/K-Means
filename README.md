@@ -61,5 +61,5 @@ Now we use K-means to cluster all of these data into 10 clusters (10 for differe
 Then we will use the same data we used to train, to find the clusters in which they belong and display them on graph 
 with each cluster has differrent color.  
 
-![Cluster in 2D] (https://github.com/MedhaviMonish/K-Means/blob/master/Images/DisplayAfterClustering.JPG "Cluster of similar digits")
+![Cluster in 2D] (https://github.com/MedhaviMonish/K-Means/blob/master/Images/DisplayAfterClustering.JPG?raw=true"Cluster of similar digits")
 
