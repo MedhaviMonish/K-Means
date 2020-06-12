@@ -5,7 +5,7 @@
 Clustering is considered an unsupervised learning method, where the machine is provided data without the target labels and it 
 tries to learn the differences and similarity among them.
 
-## K-Means
+## K-Means [To run the code on colab](https://colab.research.google.com/drive/1fESeJyhjYJ9nOiDFn-m6FgTiDM_uicwQ?usp=sharing)
 
 K-means is one of the clustering methods that runs iteratively until the desired numbers of clusters are found.
 The user will input the total number of clusters(k) to be found.
