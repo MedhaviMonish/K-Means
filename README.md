@@ -10,7 +10,7 @@ The user will input the total number of clusters(k) to be found.
 
 K-means is a centroid based technique. It takes total number of clusters as user input.
 And tries to increase intra-cluster similarity and decrease inter-cluster similarity 
-
+'''
   Start(Total cluster k)
           |
           |
@@ -30,7 +30,7 @@ And tries to increase intra-cluster similarity and decrease inter-cluster simila
           |
           | No
          End
-
+'''
 
 ### Hand Witten digits
 We will be using the hand written digits dataset provided by sklearn it has 1797 data sample of hand witten digits,
