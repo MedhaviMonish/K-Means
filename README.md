@@ -1,6 +1,6 @@
 # Clustering
 
-(https://github.com/MedhaviMonish/K-Means/blob/master/Images/clustering.jpg?raw=true)
+!(https://github.com/MedhaviMonish/K-Means/blob/master/Images/clustering.jpg?raw=true)
 Clustering is considered an unsupervised learning method, where the machine is provided data without the target labels and it 
 tries to learn the differences and similarity among them.
 
