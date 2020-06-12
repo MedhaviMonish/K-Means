@@ -1,6 +1,7 @@
 # Clustering
 
 ![Clustering](https://github.com/MedhaviMonish/K-Means/blob/master/Images/clustering.jpg?raw=true "Different Clusters")
+
 Clustering is considered an unsupervised learning method, where the machine is provided data without the target labels and it 
 tries to learn the differences and similarity among them.
 
@@ -37,6 +38,8 @@ And tries to increase intra-cluster similarity and decrease inter-cluster simila
 ### Hand Witten digits
 
 ![Hand Witten digits](https://github.com/MedhaviMonish/K-Means/blob/master/Images/HandWrittenDigits.png?raw=true "Sample of Hand Witten digits")
+
+
 We will be using the hand written digits dataset provided by sklearn it has 1797 data sample of hand witten digits,
 each one is image of size 8x8. But Since it has 64 attribute/dimensions (i.e. 8 * 8), we will be reducing it's dimension to 2 so that
 it will be easier to display them on 2D graph. For this we need to introduce Principal component analysis (PCA)
@@ -61,5 +64,6 @@ Now we use K-means to cluster all of these data into 10 clusters (10 for differe
 Then we will use the same data we used to train, to find the clusters in which they belong and display them on graph 
 with each cluster has differrent color.  
 
-![Cluster in 2D] (https://github.com/MedhaviMonish/K-Means/blob/master/Images/DisplayAfterClustering.JPG?raw=true"Cluster of similar digits")
+
+![Cluster in 2D](https://github.com/MedhaviMonish/K-Means/blob/master/Images/DisplayAfterClustering.JPG?raw=true "Cluster of similar digits")
 
